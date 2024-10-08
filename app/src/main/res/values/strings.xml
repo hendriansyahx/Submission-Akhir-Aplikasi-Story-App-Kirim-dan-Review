@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">Story Dicoding</string>
+
+    <string name="signup">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="message_welcome_page">Temukan kreativitasmu dengan Story Dicoding! Aplikasi ini memudahkanmu membuat dan membagikan cerita menarik dalam genggamanmu. Jadikan setiap momen berharga menjadi sebuah story yang bisa dinikmati oleh semua orang!</string>
+    <string name="title_welcome_page">Selamat datang di Story Dicoding!</string>
+    <string name="title_signup_page">Lengkapi data dirimu di bawah ini ya</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="message_login_page">Silakan masukkan data Kamu terlebih dahulu.</string>
+    <string name="title_login_page">Siap untuk Meningkatkan Kemampuan Storytelling?</string>
+    <string name="name">Nama</string>
+    <string name="message_main_page">Selamat Membuat Story Di Story Dicoding.</string>
+    <string name="logout">Keluar</string>
+
+    <string name="hint_email">Masukkan email Anda</string>
+    <string name="hint_password">Masukkan kata sandi Anda</string>
+    <string name="add_story">Add Story</string>
+    <string name="hint_name">Masukkan nama Anda</string>
+
+    <string name="hint_story_description">Story Description</string>
+    <string name="button_camera">Camera</string>
+    <string name="button_gallery">Gallery</string>
+    <string name="button_add_story">Add Story</string>
+    <string name="image_view_story_description">Story Image</string>
+
+    <string name="default_name">Nama yang Berbeda</string>
+    <string name="default_description">Deskripsi yang Berbeda</string>
+    <string name="content_description_photo">Foto yang Tidak Ditemukan</string>
+
+    <string name="welcome_message">Welcome,</string>
+    <string name="image_content_description">Welcome image</string>
+    <string name="list_story">List Story</string>
+    <string name="settings">Settings</string>
+
+    <string name="dark_mode">Dark Mode</string>
+    <string name="icon_description">Icon</string>
+
+    <string name="dismiss_button_text">Dismiss</string>
+
+    <string name="welcome_message_home">Halo Kak %1$s dengan email %2$s! Selamat Menikmati Fitur Dari Aplikasi Ini :).</string>
+
+    <string name="image_description">Login background image</string>
+    <string name="image_description_signup">Signup background image</string>
+    <string name="story_image_description">Story Image</string>
+    <string name="guest">Guest Add</string>
+    <string name="password_too_short">Password harus terdiri dari minimal 8 karakter</string>
+    <string name="error_invalid_domain">Domain email harus dari %1$s.</string>
+    <string name="error_invalid_email_format">Format email tidak valid.</string>
+    <string name="error_message_no_internet">Tidak ada koneksi internet.</string>
+    <string name="error_message_email_invalid">Email tidak valid.</string>
+    <string name="error_message_password_required">Password harus diisi.</string>
+    <string name="error_message_generic">Terjadi kesalahan. Silakan coba lagi.</string>
+    <string name="success_title">Sukses!</string>
+    <string name="success_message">Anda berhasil login ke Story Dicoding. Ayo mulai membuat cerita Anda!</string>
+    <string name="btn_continue">Lanjut</string>
+    <string name="error_title">Error</string>
+    <string name="btn_ok">OK</string>
+    <string name="google_maps_api_key">AIzaSyAcGzALeujHfrv231szdaN6n1eiIX1l-xk</string>
+</resources>

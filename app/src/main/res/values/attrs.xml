@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundedEditText">
+        <attr name="cornerRadius" format="dimension" />
+        <attr name="backgroundColor" format="color" />
+        <attr name="backgroundColorStart" format="color" />
+        <attr name="backgroundColorEnd" format="color" />
+    </declare-styleable>
+
+    <declare-styleable name="CustomInputField">
+        <attr name="hint" format="string" />
+        <attr name="icon" format="reference" />
+    </declare-styleable>
+
+    <declare-styleable name="EmailInputView">
+        <attr name="allowedDomains" format="string" />
+    </declare-styleable>
+
+</resources>
