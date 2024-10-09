@@ -5,8 +5,8 @@ import com.callcenter.storydicoding.data.model.Story
 
 object DataDummy {
     fun generateDummyStories(): StoriesResponse {
-        val listStory = ArrayList<Story>()
-        for (i in 1..2) {
+        val listStory: MutableList<Story> = arrayListOf()
+        for (i in 1..20) {
             val story = Story(
                 createdAt = "2022-02-22T22:22:22Z",
                 description = "Description $i",
